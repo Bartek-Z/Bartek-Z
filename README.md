@@ -12,7 +12,8 @@
   CSS \
   Sass \
   Css modules \ 
-  Styled-components \ 
+  Styled-components \
+  Bootstrap \
   BEM \
   HTML 
   

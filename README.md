@@ -7,13 +7,13 @@
 - 📫 How to reach me **bartlomiejzajac29@gmail.com**
   
 - Skills ⚡⚡ : 
-  React \
-  JavaScript \
-  CSS \
-  Sass \
-  Css modules \
-  Styled-components \
-  BEM \
+  React 
+  JavaScript 
+  CSS 
+  Sass 
+  Css modules 
+  Styled-components 
+  BEM 
   HTML 
   
   

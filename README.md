@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **bartlomiejzajac29@gmail.com**
   
-###Skills ⚡⚡ : 
-
+ <h3>Skills ⚡⚡ :</h3> 
   React \
   JavaScript \ 
   CSS \

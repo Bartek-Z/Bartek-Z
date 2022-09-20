@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Bartek>
+<h1 align="center">Hi 👋, I’m Bartek></h1>
 
 - 👀 I’m interested in **Frontend**
   

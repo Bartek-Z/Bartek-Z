@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Bartek></h1>
+<h1 align="center">Hi 👋, I’m Bartek</h1>
 
 - 👀 I’m interested in **Frontend**
   
@@ -14,7 +14,7 @@
   Css modules \
   Styled-components \
   BEM \
-  HTML \
+  HTML 
   
   
 
